@@ -15,6 +15,10 @@
     "p2p-mainnet.fibos123.com:9977",
     "95.179.151.73:9872",
     "45.76.101.96:9871",
-    "207.148.109.179:9872"
+    "fibos-node-1.chains.one:9876",
+    "fibos-node-2.chains.one:9875",
+    "fibos-node-3.chains.one:9874",
+    "fibos-server-1.chains.one:9872",
+    "fibos-server-2.chains.one:9876"
 ]
 ```
